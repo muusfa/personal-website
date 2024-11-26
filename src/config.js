@@ -1,26 +1,22 @@
 module.exports = {
-  email: 'Usman.Farooq@gmail.com',
+  email: 'farooqusmanm@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bFarooq7',
+      url: 'https://github.com/muusfa',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bFarooq7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bFarooq7',
+      url: 'https://www.instagram.com/usman.farooq3',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bFarooq7',
+      url: 'https://www.linkedin.com/in/m-usman-farooq/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bFarooq7',
+      name: 'Email',
+      url: 'mailto:farooqusmanm@gmail.com',
     },
   ],
 

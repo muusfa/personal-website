@@ -5,13 +5,7 @@
   UsmanFarooq.com - v4
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://UsmanFarooq.com" target="_blank">UsmanFarooq.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/bFarooq7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bFarooq7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bFarooq7/bFarooq7.github.io" target="_blank">v3</a>
+  The first iteration of <a href="https://UsmanFarooq.com" target="_blank">UsmanFarooq.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/UsmanFarooq/deploys" target="_blank">
