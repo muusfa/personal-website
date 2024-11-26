@@ -2,7 +2,7 @@
 date: '2'
 title: 'Spotify Profile'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: 'https://github.com/bFarooq7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - React
