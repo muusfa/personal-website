@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://usmanfarooq.com/sitemap-index.xml
+Host: https://usmanfarooq.com
