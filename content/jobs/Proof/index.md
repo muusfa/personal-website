@@ -7,6 +7,7 @@ range: 'May 2024 - Dec 2024'
 url: 'https://www.proofserve.com/'
 ---
 - Built groundbreaking features (Notification Hub, First Mile Experience) increasing customer retention by 10%.
-- Overhauled a complex mobile app that integrates with several third-party vendors.
+- Overhauled a complex mobile app that integrates with several third-party vendors to adhere to modern design standards.
+- Worked across the stack and with stakeholders to scope out MVP and beyond solutions for projects.
 
 
