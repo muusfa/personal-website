@@ -6,6 +6,6 @@ location: 'Calgary, AB'
 range: 'May 2019 - Aug 2020'
 url: 'https://www.pason.com/'
 ---
-- Collaborated with Drilling Optimization Engineers to develop an automated system, generating approximately 50 daily and end-of-well reports to enhance operational efficiency.
-- Developed and maintained MATLAB algorithms that processed high-frequency sensor data (1/10 second intervals), quantifying drilling efficiency and supporting sales engineers in driving product sales.
+- Designed and implemented an automated reporting system in collaboration with Drilling Optimization Engineers, delivering 50+ daily reports used as critical business metrics by clients.
+- Optimized MATLAB algorithms to process high-frequency sensor data (10 Hz), enabling precise quantification of drilling efficiency and empowering sales engineers to increase product adoption.
 - Actively supported sales and engineering teams, efficiently handling up to 10 customer queries per day to improve service responsiveness. 
